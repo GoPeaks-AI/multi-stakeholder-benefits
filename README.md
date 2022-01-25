@@ -1,4 +1,4 @@
-# Mlti-stakeholder Benefits
+# Multi-stakeholder Benefits
 We are developing an open community to understand how organizations may align benefits to all of their stakeholders, including customers (e.g., users, clients, and consumers), investors (e.g., shareholders and creditors), employees (e.g., workers and managers), suppliers (e.g., vendors and contractors), and community/environment (e.g., local community, neighborhood, society, and the natural environments).  
 
 At this stage, we are focused on two initiatives:  
