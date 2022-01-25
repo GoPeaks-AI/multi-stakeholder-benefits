@@ -9,7 +9,7 @@ Acknowledgements:
 - - [Victor Chen](https://gopeaks.org/)
 - - [Meng Zhong](https://scholar.google.com/citations?user=xHHDDPUAAAAJ&hl=en)
 - - [Steve Sauerwald](https://scholar.google.com/citations?user=kWDrFcsAAAAJ&hl=en)
-- - [Marc van Essen)(https://scholar.google.com/citations?user=AWezk6oAAAAJ&hl=en)
+- - [Marc van Essen](https://scholar.google.com/citations?user=AWezk6oAAAAJ&hl=en)
 - - [Patricio Duran](https://scholar.google.com/citations?user=PGWxJFkAAAAJ&hl=en)
 - - [Wendy Long](https://www.linkedin.com/in/wendychengyilong/)
 - - [Rosalyn Sandoval](https://scholar.google.com/citations?user=rlJATFEAAAAJ&hl=en)
