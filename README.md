@@ -4,13 +4,15 @@
 - - Data on causal influences synthesized from the literature (TBA)
 - - Data on correlations and sample metadata (TBA)
 - [MS Form Upload Template](https://github.com/GoPeaks-AI/multi-stakeholder-benefits/blob/data/MS_form_dataupload.xlsx)
-Acknowledgements:
-- The following researchers contributed to the construction of the taxonomy
-- - [Victor Chen](https://gopeaks.org/)
-- - [Meng Zhong](https://scholar.google.com/citations?user=xHHDDPUAAAAJ&hl=en)
-- - [Steve Sauerwald](https://scholar.google.com/citations?user=kWDrFcsAAAAJ&hl=en)
-- - [Marc van Essen](https://scholar.google.com/citations?user=AWezk6oAAAAJ&hl=en)
-- - [Patricio Duran](https://scholar.google.com/citations?user=PGWxJFkAAAAJ&hl=en)
-- - [Wendy Long](https://www.linkedin.com/in/wendychengyilong/)
-- - [Rosalyn Sandoval](https://scholar.google.com/citations?user=rlJATFEAAAAJ&hl=en)
-- - [Holly Holladay](https://orgscience.charlotte.edu/directory/holly-holladay)
+
+
+#### Acknowledgements:
+The following researchers contributed to the construction of the taxonomy
+- [Victor Chen](https://gopeaks.org/)
+- [Meng Zhong](https://scholar.google.com/citations?user=xHHDDPUAAAAJ&hl=en)
+- [Steve Sauerwald](https://scholar.google.com/citations?user=kWDrFcsAAAAJ&hl=en)
+- [Marc van Essen](https://scholar.google.com/citations?user=AWezk6oAAAAJ&hl=en)
+- [Patricio Duran](https://scholar.google.com/citations?user=PGWxJFkAAAAJ&hl=en)
+- [Wendy Long](https://www.linkedin.com/in/wendychengyilong/)
+- [Rosalyn Sandoval](https://scholar.google.com/citations?user=rlJATFEAAAAJ&hl=en)
+- [Holly Holladay](https://orgscience.charlotte.edu/directory/holly-holladay)
