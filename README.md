@@ -1,5 +1,5 @@
 # Multi-stakeholder Benefits
-We are developing an open community to understand how organizations may align benefits to all of their stakeholders, including customers (e.g., users, clients, and consumers), investors (e.g., shareholders and creditors), employees (e.g., workers and managers), suppliers (e.g., vendors and contractors), and community/environment (e.g., local community, neighborhood, society, and the natural environments).  
+We are developing an open community to understand how organizations may align benefits to all of their stakeholders, including customers (e.g., users, clients, and consumers), investors (e.g., shareholders and creditors), employees (e.g., workers and managers), suppliers (e.g., vendors and contractors), and community/environment (e.g., local community, neighborhood, society, and the natural environments). See a [Standard Taxonomy](https://forms.office.com/Pages/ResponsePage.aspx?id=fZ3ViMuuskGQxVVZXeAlNhhOjJEHE_dLm_AGymQ04WVUME9LNDZTRElVTVFGUVJZWkpOMTBXWTlKVi4u) that defines whether an entity is a stakeholder benefit.
 
 At this stage, we are focused on two initiatives:  
 - a. We are engaging an open community of researchers and decision-makers interested in multi-stakeholder benefits. Join our [Slack channel](https://app.slack.com/client/T02V6J4J39R/C02V8S6JXFE) 
