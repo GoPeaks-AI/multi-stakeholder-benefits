@@ -1,5 +1,5 @@
 # This branch curates the following data
-- Neo4j Dump file for all the above three (TBA)
+- Neo4j Dump file for the following three knowledge graphs (TBA)
 - - [Taxonomy of stakeholder benefits](https://github.com/GoPeaks-AI/multi-stakeholder-benefits/blob/data/MSB%20Taxonomy%20(version%202020%2001%2025).xlsx) (current version 2022-01-25)
 - - Data on causal influences synthesized from the literature (TBA)
 - - Data on correlations and sample metadata (TBA)
