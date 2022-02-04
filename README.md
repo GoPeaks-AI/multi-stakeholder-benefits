@@ -7,7 +7,7 @@
 
 
 #### Acknowledgements:
-The following researchers contributed to the construction of the taxonomy
+The following researchers have contributed to the construction of the taxonomy
 - [Victor Chen](https://gopeaks.org/)
 - [Meng Zhong](https://scholar.google.com/citations?user=xHHDDPUAAAAJ&hl=en)
 - [Steve Sauerwald](https://scholar.google.com/citations?user=kWDrFcsAAAAJ&hl=en)
