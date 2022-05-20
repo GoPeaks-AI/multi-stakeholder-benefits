@@ -7,4 +7,4 @@ At this stage, we are focused on two initiatives:
 
 We have made the raw correlation data available for the following publications:
 - Chen, V. Z., Duran, P., Sauerwald, S., Hitt, M. A., & Van Essen, M. (2022). Multistakeholder agency: Stakeholder benefit alignment and national institutional contexts. **Journal of Management, In-Press**. ([Download  data here](https://github.com/GoPeaks-AI/multi-stakeholder-benefits/tree/main/Journal%20of%20Management%20(2021)%20Paper))
-- Chen, V. Z., Meng, Z., Duran, P., Sauerwald, S. (2022). Multi-stakeholder benefits: A meta-analysis of different theories. **Business and Society, Accepted**. ([Download  data here]([https://github.com/GoPeaks-AI/multi-stakeholder-benefits/tree/main/Journal%20of%20Management%20(2021)%20Paper](https://github.com/GoPeaks-AI/multi-stakeholder-benefits/tree/main/Business%20%26%20Society%20(2022)%20Paper)))
+- Chen, V. Z., Meng, Z., Duran, P., Sauerwald, S. (2022). Multi-stakeholder benefits: A meta-analysis of different theories. **Business and Society, Accepted**. ([Download  data here](https://github.com/GoPeaks-AI/multi-stakeholder-benefits/tree/main/Business%20%26%20Society%20(2022)%20Paper))
